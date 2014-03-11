@@ -1,0 +1,136 @@
+body 
+{
+	margin: 0px;
+	border: 0px solid black;
+	background-image: url(./background.jpg);
+}
+
+@font-face
+{
+	font-family: menuFont;
+	src: url(./harabara.ttf);
+}
+
+.aspan
+{
+	display: block;
+}
+
+
+div#container 
+{
+	height: 250px;
+}
+
+div#floater 
+{
+    	float: left;
+    	height: 50%;
+    	width: 100%;
+    	margin-bottom: -35px;
+}
+
+div#menu 
+{
+    	clear: both;
+    	height: 448px;
+}
+
+div#boxcont
+{	
+	margin-left: auto;
+	margin-right: auto;
+	width: 744px;
+	height: 448px;
+}
+
+div#searchbox
+{
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+	height: 24px;
+	text-align: center;
+}
+
+a.boxwide
+{	
+	display: block;
+	position:relative;
+
+	float: left;
+	
+	text-decoration: none;	
+	
+	box-shadow: 3px 3px 0px #000;
+
+	width: 240px;
+	height: 120px;
+	
+	margin: 4px;
+}
+
+a.boxsmall
+{	
+	display: block;
+	position:relative;
+
+	float: left;
+	
+	text-decoration: none;	
+	
+	box-shadow: 3px 3px 0px #000;
+
+	width: 116px;
+	height: 120px;
+	
+	margin: 4px;
+}
+
+div.picture
+{
+	position: absolute;
+}
+
+div.tekst
+{	
+	text-align: right;
+	
+	font-family: menuFont;
+	color: white;
+	text-shadow: 2px 2px #000;
+	text-decoration: none;	
+
+	margin-right: 10px;
+	margin-top: 90px;
+}
+
+div#clockdiv
+{
+	font-family: clockFont;
+	font-size: 72px;
+	color: white;
+	
+	text-shadow: 2px 2px #000;
+	text-decoration: none;	
+	text-align: center;
+	
+	margin-top: 20px;
+}
+
+input.searchtext
+{
+	width: 400px;
+	margin: 0;
+	padding: 5px 15px;
+	font-family: menuFont;
+	font-size:14px;
+	border:3px solid #555;
+}
+
+input.searchbutton
+{
+	position: absolute;
+	margin-left: 10px;
+	top: 3px;
+}
