@@ -1,3 +1,4 @@
+- overflow behaviours everywhere
 - span css for non-link blocks
 - jss library for default widgets like clock, rss
 - onhover style
