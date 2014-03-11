@@ -1,0 +1,6 @@
+- span css for non-link blocks
+- jss library for default widgets like clock, rss
+- onhover style
+- bar with 32x32/64x64? blocks on top/bottom?
+- some sort of animation on background i guess
+- support for mascots
