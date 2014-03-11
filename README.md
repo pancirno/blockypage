@@ -12,3 +12,5 @@ currently a row holds 3 wide blocks or 6 small blocks, and you can have 3 rows. 
 example of usage (be creative! include some cool widgets like a clock):
 
 ![lookin good](http://i.imgur.com/7swc4Jh.jpg)
+
+html code is guarranted to work on Chrome and Firefox.
