@@ -1,5 +1,5 @@
-- overflow behaviours everywhere
-- span css for non-link blocks
+- overflow behaviours everywhere (done)
+- span css for non-link blocks (done)
 - jss library for default widgets like clock, rss
 - onhover style
 - bar with 32x32/64x64? blocks on top/bottom?
